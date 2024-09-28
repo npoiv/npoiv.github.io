@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://npoiv.github.io/rKR/sitemap.rKR.gz
